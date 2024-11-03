@@ -1,6 +1,6 @@
 # Profile
 # 💫 About Me:
-👋 Hi, I’m @siddhartha pahari<br>👀 I’m interested in biomedical engineering.<br>🌱 I’m currently learning pytorch.<br>💞️ I’m looking to collaborate on genome sequencing and also llm for protein synthesis.<br>📫 How to reach me mail me at siddhartha.pahari@gmail.com.<br>My google scholar account is: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AHoSzlX8MeNNMwksfhmkVZ6Q55XR2R5v-Js4mYRHZH50YX_2unNkfUR63_LH5G29im8CSFatjsklxjL5cCeTMKMG_lfC&user=YVZ-FycAAAAJ<br>My LinkedIn profile is: https://www.linkedin.com/in/siddhartha-pahari-80810b248/
+👋 Hi, I’m @siddhartha pahari<br>👀 I’m interested in biomedical engineering.<br>🌱 I’m currently learning.<br>💞️ I’m looking to collaborate on genome sequencing and also llm for protein synthesis.<br>📫 How to reach me mail me at siddhartha.pahari@gmail.com.<br>My google scholar account is: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AHoSzlX8MeNNMwksfhmkVZ6Q55XR2R5v-Js4mYRHZH50YX_2unNkfUR63_LH5G29im8CSFatjsklxjL5cCeTMKMG_lfC&user=YVZ-FycAAAAJ<br>My LinkedIn profile is: https://www.linkedin.com/in/siddhartha-pahari-80810b248/
 
 
 ## 🌐 Socials:
